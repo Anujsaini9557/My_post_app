@@ -1,0 +1,18 @@
+.app-container{
+  display: flex;
+}
+.content{
+  width:100%;
+  background-color: white;
+}
+.sidebar{
+  min-height: 700px;
+}
+.post-card{
+  width: 18rem;
+  margin: 20px 50px;
+}
+.reactions{
+  width: 100%0;
+  margin:20px 0px 0px 0px;
+}
